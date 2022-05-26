@@ -1,5 +1,5 @@
 import socket
-import common_ports
+import common_ports # may have problems
 import re
 
 
